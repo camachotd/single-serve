@@ -430,7 +430,7 @@ li a:hover {
               height: auto;
 
             }
-@media (min-width:1600px) {
+@media (min-width:750px) {
   .smallvp {
   visibility: hidden;
   display: none;
@@ -447,7 +447,7 @@ main {
 }
 }
 
-@media (max-width:1600px) {
+@media (max-width:750px) {
   .largevp {
   visibility: hidden;
   display: none;
