@@ -215,7 +215,7 @@ main img {
 
 }
 
-@media (min-width:780px) {
+@media (min-width:700px) {
 
   main {
     position: absolute;
@@ -401,7 +401,7 @@ main img {
 
 }
 
-@media (max-width:780px) {
+@media (max-width:700px) {
 
   body {
     width:100%;
@@ -411,6 +411,16 @@ main img {
     margin-right:auto;
 
   }
+
+  main {
+    width:100%;
+    max-width: 100%;
+    margin-top: 80px;
+    margin-left:auto;
+    margin-right:auto;
+
+  }
+
 
   .largevp {
     visibility: hidden;
