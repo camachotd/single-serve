@@ -203,7 +203,7 @@ body {
 
 }
 
-@media (min-width:780px) {
+@media (min-width:700px) {
 
   main {
     position: absolute;
@@ -402,11 +402,11 @@ body {
 
 }
 
-@media (max-width:780px) {
+@media (max-width:700px) {
 
   body {
     width:100%;
-    max-width: 100%;
+    max-width: 700px;
     margin-top: 80px;
     margin-left:auto;
     margin-right:auto;
@@ -415,7 +415,7 @@ body {
 
   main {
     width:100%;
-    max-width: 100%;
+    max-width: 700px;
     margin-top: 80px;
     margin-left:auto;
     margin-right:auto;
@@ -435,7 +435,7 @@ body {
     z-index: 1;
     overflow: hidden;
     width: 100%;
-    max-width: 100%;
+    max-width: 700px;
     height: 80px;
     background: #2c2b20;
 
@@ -467,7 +467,7 @@ body {
     list-style-type: none;
     overflow: hidden;
     width: 100%;
-    max-width: 100%;
+    max-width: 700px;
     margin: 0;
     padding: 0;
     background: #2c2b20;
