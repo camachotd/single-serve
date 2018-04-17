@@ -509,7 +509,7 @@ body {
   }
 
 
-  img {
+  main img {
     width:auto;
     height:auto;
     max-width:100%;
@@ -628,6 +628,12 @@ body {
       padding: 60px 60px;
       margin-top:30px;
 
+    }
+
+    .col-md-8 {
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
     }
 
 }
